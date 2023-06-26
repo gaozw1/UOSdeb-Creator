@@ -1,0 +1,8 @@
+Package: uosdebcreator
+Version: 1.0.0
+Architecture: amd64
+Maintainer: gzw <gzw@uniontech.com>
+Depends: libqt5widgets5
+Section: admin
+Priority: optional
+Description: deb -> UOSdeb

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=UOSdeb-creator
+Exec=UOSdeb-creator
+Icon=UOSdebCreator
+Name=UOSdeb Creator
+StartupNotify=true
+Terminal=false
+Type=Application
+
